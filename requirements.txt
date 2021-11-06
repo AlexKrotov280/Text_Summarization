@@ -1,0 +1,15 @@
+tensorflow-cpu
+pandas
+pymongo
+transformers
+torch
+numpy
+spacy
+nltk
+scipy
+Flask
+azure-servicebus
+PyYAML
+confuse
+azure-storage-blob
+sentencepiece
